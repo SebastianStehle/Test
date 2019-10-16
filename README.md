@@ -2,6 +2,9 @@
 
 ## Getting Super Powers
 
+* [ ] 
+{% page-ref page="./" %}
+
 Becoming a super hero is a fairly straight forward process:
 
 ```
@@ -20,4 +23,6 @@ echo 'You got to trust me on this, I saved the world'
 ```
 
 
+
+{% page-ref page="./" %}
 
